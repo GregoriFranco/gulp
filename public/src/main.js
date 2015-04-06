@@ -1,4 +1,4 @@
 //arquivo de exemplo
-var x = 9;
-var y = 2;
+var x = 5;
+var y = 5;
 var z = x + y; 
